@@ -1,0 +1,30 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    text: |-
+      import java.util.Scanner;
+      
+      public class Main {
+      
+          public static void main(String[] args) {
+      
+              // Create a Scanner object
+              Scanner scanner = new Scanner(System.in);
+      
+              // Read the integer input
+              int number = scanner.nextInt();
+      
+              // Write your code here to check the range of the number and print the appropriate message
+      
+              scanner.close();
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/40517#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 25 Dec 2023 17:19:43 UTC"
+record: -1
+submission_language: java17

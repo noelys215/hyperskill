@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Call me awesome" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Invoking Methods with Type Casting" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Checking if an integer falls within a certain range" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Encrypted code constructor" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Fixing a scrambled 'Hello, World!' program" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Print the print statement" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/The number of spaces" />
+            <option value="$PROJECT_DIR$/Topics/Coding style conventions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/A correct example" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Check a number is positive" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Determine the output" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Healthy sleep" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Interval" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/Calculating factorials" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/Choose a return type" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/Method signature" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/Syntactically correct declarations" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/The elements of a method" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Method  main/Print  Hello, Java" />
+            <option value="$PROJECT_DIR$/Topics/Method  main/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Removing breaks" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Rewriting code using switch" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Shape" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Direct input" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Hiring a chef" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Printing each word in a new line" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Reading a number" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Reading a single word" />
+            <option value="$PROJECT_DIR$/Topics/Reading user's input with Scanner/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
