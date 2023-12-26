@@ -2,3 +2,6 @@ custom_name: Method "main"
 content:
   - Theory
   - "Print  Hello, Java"
+  - Running a program without main
+  - Who is the main
+  - Print  We are robots
