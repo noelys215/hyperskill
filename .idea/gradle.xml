@@ -9,6 +9,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Calling varargs" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Completing a method to print array elements" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Inverse boolean flags" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/The declaration of the sumAll method" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Varargs" />
             <option value="$PROJECT_DIR$/Topics/Calling methods/Call me awesome" />
             <option value="$PROJECT_DIR$/Topics/Calling methods/Invoking Methods with Type Casting" />
             <option value="$PROJECT_DIR$/Topics/Calling methods/Theory" />
