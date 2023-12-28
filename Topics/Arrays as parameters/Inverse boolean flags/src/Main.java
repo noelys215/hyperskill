@@ -4,7 +4,9 @@ import java.util.stream.Collectors;
 public class Main {
 
     public static void inverseFlags(boolean[] flags) {
-        for (int i = 0; i < flags.length; i++) flags[i] = !flags[i];
+        for (int i = 0; i < flags.length; i++) {
+            flags[i] = !flags[i];
+        }
     }
 
 
