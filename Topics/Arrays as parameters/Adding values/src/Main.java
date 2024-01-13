@@ -11,5 +11,4 @@ class Patient {
     int age;
     float height;
 
-
 }
